@@ -21,57 +21,38 @@ WebCTRL is the software used to interface with building automation systems we pr
 - 🔥 Development Expected Soon
 - ❄ Development Paused
 
-### [aces-equipment-builder](https://github.com/automatic-controls/aces-equipment-builder)
+### ✔ [aces-equipment-builder](https://github.com/automatic-controls/aces-equipment-builder) v2.0.4
 Desktop application that interfaces with WebCTRL to generate EIKON scripts using custom *.logicsymbol* libraries. Each library can be set to synchronize with a shared network drive. Additional capabilities include maintaining a shared set of favorite *.logicsymbol* and *.logic-script* files.
 
-✔ v2.0.4
-
-### [vscode-aces-equipment-builder](https://github.com/automatic-controls/vscode-aces-equipment-builder)
+### ✔ [vscode-aces-equipment-builder](https://github.com/automatic-controls/vscode-aces-equipment-builder) v1.0.2
 Extension for [Visual Studio Code](https://code.visualstudio.com/) that provides language support for ACES EB configuration files.
 
-✔ v1.0.2
-
-### [addon-dev-script](https://github.com/automatic-controls/addon-dev-script)
+### ✔ [addon-dev-script](https://github.com/automatic-controls/addon-dev-script) v1.1.2
 Batch script used to automate certain aspects of WebCTRL add-on development. Features include automated keystore management and dependency collection.
 
-✔ v1.1.2
+### ✔ [addon-dev-refresh](https://github.com/automatic-controls/addon-dev-refresh) v1.0.0
+Streamlines add-on development by automatically removing and adding add-ons from a local WebCTRL server as they are developed.
 
-### [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts)
+### ✔ [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts) v0.1.2-beta
 WebCTRL add-on which executes scripts uploaded by administrators for the purpose of testing equipment functionality.
 
-✔ v0.1.2-beta
-
-### [terminal-unit-script](https://github.com/automatic-controls/terminal-unit-script)
+### ✔ [terminal-unit-script](https://github.com/automatic-controls/terminal-unit-script) v0.1.0-beta
 Commissioning script which evaluates performance of fans, dampers, and heating components in terminal units.
 
-✔ v0.1.0-beta
-
-### [geo-xml-export-addon](https://github.com/automatic-controls/geo-xml-export-addon)
+### ✔ [geo-xml-export-addon](https://github.com/automatic-controls/geo-xml-export-addon) v1.0.0
 WebCTRL add-on that exports structural geographic tree data as an XML file intended for use in Inkscape to create SVG graphics. An optional regular expression transform can be used to preprocess display names for Inkscape label-text.
 
-✔ v1.0.0
-
-### [report-ftp-addon](https://github.com/automatic-controls/report-ftp-addon)
+### ✔ [report-ftp-addon](https://github.com/automatic-controls/report-ftp-addon) v0.1.1-beta
 WebCTRL add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
 
-✔ v0.1.1-beta
-
-### [centralizer-for-webctrl](https://github.com/automatic-controls/centralizer-for-webctrl)
-Database application that runs as a Windows service and a WebCTRL add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected WebCTRL servers. Additional capabilities include automatic file retrieval and scheduled script execution.
-
-❄ v0.1.0-beta
-
-### [cert-manager-for-webctrl](https://github.com/automatic-controls/cert-manager-for-webctrl)
+### ✔ [cert-manager-for-webctrl](https://github.com/automatic-controls/cert-manager-for-webctrl) v1.0.0
 Batch script which provides commands to assist with the management of SSL certificates for WebCTRL.
 
-✔ v1.0.0
+### ❄ [centralizer-for-webctrl](https://github.com/automatic-controls/centralizer-for-webctrl) v0.1.0-beta
+Database application that runs as a Windows service and a WebCTRL add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected WebCTRL servers. Additional capabilities include automatic file retrieval and scheduled script execution.
 
-### pid-tuner-addon
+### ❄ pid-tuner-addon
 WebCTRL add-on that evaluates PID performance and auto-tunes parameters. PID evaluation can be scheduled to recur at regular intervals. When performance ratings drop below acceptable standards, parameters may be auto-tuned.
 
-❄
-
-### graphics-provider-addon
+### ❄ graphics-provider-addon
 WebCTRL add-on that dynamically generates graphics pages using HTML template files with extended syntax to query and modify nodes on the geographic tree.
-
-❄
