@@ -1,5 +1,10 @@
 ## Activity Log
 
+### **08/29/2022 - 09/01/2022**
+- Small improvements to addon-dev-script
+- Worked on commissioning-scripts
+- Worked on terminal-unit-script
+
 ### **07/01/2022 - 08/19/2022**
 - Worked on CommissioningScripts add-on.
 
