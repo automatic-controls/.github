@@ -34,17 +34,17 @@ Extension for [Visual Studio Code](https://code.visualstudio.com/) that provides
 ### [addon-dev-script](https://github.com/automatic-controls/addon-dev-script)
 Batch script used to automate certain aspects of WebCTRL add-on development. Features include automated keystore management and dependency collection.
 
-✔ v1.1.0
+✔ v1.1.2
 
 ### [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts)
 WebCTRL add-on which executes scripts uploaded by administrators for the purpose of testing equipment functionality.
 
-🛠 v0.1.0-beta
+✔ v0.1.2-beta
 
 ### [terminal-unit-script](https://github.com/automatic-controls/terminal-unit-script)
 Commissioning script which evaluates performance of fans, dampers, and heating components in terminal units.
 
-🛠 v0.1.0-beta
+✔ v0.1.0-beta
 
 ### [geo-xml-export-addon](https://github.com/automatic-controls/geo-xml-export-addon)
 WebCTRL add-on that exports structural geographic tree data as an XML file intended for use in Inkscape to create SVG graphics. An optional regular expression transform can be used to preprocess display names for Inkscape label-text.
