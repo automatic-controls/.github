@@ -30,7 +30,7 @@ Extension for [Visual Studio Code](https://code.visualstudio.com/) that provides
 ### ✔ [addon-dev-script](https://github.com/automatic-controls/addon-dev-script) v1.1.2
 Batch script used to automate certain aspects of WebCTRL add-on development. Features include automated keystore management and dependency collection.
 
-### ✔ [addon-dev-refresh](https://github.com/automatic-controls/addon-dev-refresh) v1.0.0
+### ✔ [addon-dev-refresh](https://github.com/automatic-controls/addon-dev-refresh) v1.0.1
 Streamlines add-on development by automatically removing and adding add-ons from a local WebCTRL server as they are developed.
 
 ### ✔ [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts) v0.1.2-beta
@@ -44,6 +44,9 @@ WebCTRL add-on that exports structural geographic tree data as an XML file inten
 
 ### ✔ [report-ftp-addon](https://github.com/automatic-controls/report-ftp-addon) v0.1.1-beta
 WebCTRL add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
+
+### ✔ [garbage-collect-addon](https://github.com/automatic-controls/garbage-collect-addon) v1.0.0
+A simple WebCTRL add-on which invokes System.gc() every 5 minutes.
 
 ### ✔ [cert-manager-for-webctrl](https://github.com/automatic-controls/cert-manager-for-webctrl) v1.0.0
 Batch script which provides commands to assist with the management of SSL certificates for WebCTRL.
