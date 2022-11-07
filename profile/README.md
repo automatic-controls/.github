@@ -45,6 +45,9 @@ WebCTRL add-on that exports structural geographic tree data as an XML file inten
 ### ✔ [report-ftp-addon](https://github.com/automatic-controls/report-ftp-addon) v0.1.1-beta
 WebCTRL add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
 
+### ✔ [time-sync-addon](https://github.com/automatic-controls/time-sync-addon) v1.0.0
+WebCTRL add-on which synchronizes time across controllers at regularly scheduled intervals (configured with [Cron expressions](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/scheduling/support/CronExpression.html#parse-java.lang.String-)).
+
 ### ✔ [garbage-collect-addon](https://github.com/automatic-controls/garbage-collect-addon) v1.0.0
 A simple WebCTRL add-on which invokes System.gc() every 5 minutes.
 
