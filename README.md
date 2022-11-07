@@ -1,5 +1,10 @@
 ## Activity Log
 
+### **09/02/2022 - 11/11/2022**
+- Unfortunately, I haven't maintained this log during the past few months
+- Worked on terminal-unit-script
+- Worked on some miscellaneous Power BI projects
+
 ### **08/29/2022 - 09/01/2022**
 - Small improvements to addon-dev-script
 - Worked on commissioning-scripts
