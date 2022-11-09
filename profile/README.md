@@ -27,7 +27,7 @@ Desktop application that interfaces with WebCTRL to generate EIKON scripts using
 ### ✔ [vscode-aces-equipment-builder](https://github.com/automatic-controls/vscode-aces-equipment-builder) v1.0.2
 Extension for [Visual Studio Code](https://code.visualstudio.com/) that provides language support for ACES EB configuration files.
 
-### ✔ [addon-dev-script](https://github.com/automatic-controls/addon-dev-script) v1.1.2
+### ✔ [addon-dev-script](https://github.com/automatic-controls/addon-dev-script) v1.1.3
 Batch script used to automate certain aspects of WebCTRL add-on development. Features include automated keystore management and dependency collection.
 
 ### ✔ [addon-dev-refresh](https://github.com/automatic-controls/addon-dev-refresh) v1.0.1
