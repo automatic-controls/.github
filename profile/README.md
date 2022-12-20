@@ -33,11 +33,11 @@ Batch script used to automate certain aspects of WebCTRL add-on development. Fea
 ### ✔ [addon-dev-refresh](https://github.com/automatic-controls/addon-dev-refresh) v1.0.1
 Streamlines add-on development by automatically removing and adding add-ons from a local WebCTRL server as they are developed.
 
-### ✔ [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts) v0.1.2-beta
+### ✔ [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts) v0.1.3-beta
 WebCTRL add-on which executes scripts uploaded by administrators for the purpose of testing equipment functionality.
 
-### ✔ [terminal-unit-script](https://github.com/automatic-controls/terminal-unit-script) v0.1.0-beta
-Commissioning script which evaluates performance of fans, dampers, and heating components in terminal units.
+### ✔ [terminal-unit-script](https://github.com/automatic-controls/terminal-unit-script) v0.2.0-beta
+Commissioning script which evaluates performance of fans, dampers, and heating/cooling components in terminal units.
 
 ### ✔ [geo-xml-export-addon](https://github.com/automatic-controls/geo-xml-export-addon) v1.0.0
 WebCTRL add-on that exports structural geographic tree data as an XML file intended for use in Inkscape to create SVG graphics. An optional regular expression transform can be used to preprocess display names for Inkscape label-text.
