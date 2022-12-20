@@ -1,5 +1,9 @@
 ## Activity Log
 
+### **11/14/2022 - 12/21/2022**
+- Worked on commissioning-scripts v0.1.3-beta
+- Worked on terminal-unit-script v0.2.0-beta
+
 ### **09/02/2022 - 11/11/2022**
 - Unfortunately, I haven't maintained this log during the past few months
 - Worked on terminal-unit-script
