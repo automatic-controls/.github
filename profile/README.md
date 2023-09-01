@@ -27,16 +27,19 @@ Desktop application that interfaces with WebCTRL to generate EIKON scripts using
 ### ✔ [vscode-aces-equipment-builder](https://github.com/automatic-controls/vscode-aces-equipment-builder) v1.0.2
 Extension for [Visual Studio Code](https://code.visualstudio.com/) that provides language support for ACES EB configuration files.
 
+### 🛠 [postgresql-connect](https://github.com/automatic-controls/postgresql-connect) v0.3.2-beta
+WebCTRL add-on which periodically synchronizes operators, add-ons, and other data to an external PostgreSQL database.
+
 ### ✔ [addon-dev-script](https://github.com/automatic-controls/addon-dev-script) v1.1.3
 Batch script used to automate certain aspects of WebCTRL add-on development. Features include automated keystore management and dependency collection.
 
 ### ✔ [addon-dev-refresh](https://github.com/automatic-controls/addon-dev-refresh) v1.0.1
 Streamlines add-on development by automatically removing and adding add-ons from a local WebCTRL server as they are developed.
 
-### ✔ [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts) v0.1.3-beta
+### ✔ [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts) v0.1.4-beta
 WebCTRL add-on which executes scripts uploaded by administrators for the purpose of testing equipment functionality.
 
-### ✔ [terminal-unit-script](https://github.com/automatic-controls/terminal-unit-script) v0.2.0-beta
+### ✔ [terminal-unit-script](https://github.com/automatic-controls/terminal-unit-script) v0.2.3-beta
 Commissioning script which evaluates performance of fans, dampers, and heating/cooling components in terminal units.
 
 ### ✔ [geo-xml-export-addon](https://github.com/automatic-controls/geo-xml-export-addon) v1.0.0
@@ -53,9 +56,6 @@ A simple WebCTRL add-on which invokes System.gc() every 5 minutes.
 
 ### ✔ [cert-manager-for-webctrl](https://github.com/automatic-controls/cert-manager-for-webctrl) v1.0.0
 Batch script which provides commands to assist with the management of SSL certificates for WebCTRL.
-
-### ❄ [centralizer-for-webctrl](https://github.com/automatic-controls/centralizer-for-webctrl) v0.1.0-beta
-Database application that runs as a Windows service and a WebCTRL add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected WebCTRL servers. Additional capabilities include automatic file retrieval and scheduled script execution.
 
 ### ❄ pid-tuner-addon
 WebCTRL add-on that evaluates PID performance and auto-tunes parameters. PID evaluation can be scheduled to recur at regular intervals. When performance ratings drop below acceptable standards, parameters may be auto-tuned.
