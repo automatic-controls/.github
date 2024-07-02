@@ -30,7 +30,7 @@ Extension for [Visual Studio Code](https://code.visualstudio.com/) that provides
 ### 🛠 [postgresql-connect](https://github.com/automatic-controls/postgresql-connect) v0.5.4-beta
 WebCTRL add-on which periodically synchronizes operators, add-ons, and other data to an external PostgreSQL database.
 
-### ✔ [addon-dev-script](https://github.com/automatic-controls/addon-dev-script) v1.1.3
+### ✔ [addon-dev-script](https://github.com/automatic-controls/addon-dev-script) v1.1.4
 Batch script used to automate certain aspects of WebCTRL add-on development. Features include automated keystore management and dependency collection.
 
 ### ✔ [addon-dev-refresh](https://github.com/automatic-controls/addon-dev-refresh) v1.0.1
