@@ -27,7 +27,7 @@ Desktop application that interfaces with WebCTRL to generate EIKON scripts using
 ### ✔ [vscode-aces-equipment-builder](https://github.com/automatic-controls/vscode-aces-equipment-builder) v1.0.2
 Extension for [Visual Studio Code](https://code.visualstudio.com/) that provides language support for ACES EB configuration files.
 
-### 🛠 [postgresql-connect](https://github.com/automatic-controls/postgresql-connect) v0.5.4-beta
+### 🛠 [postgresql-connect](https://github.com/automatic-controls/postgresql-connect) v0.5.5-beta
 WebCTRL add-on which periodically synchronizes operators, add-ons, and other data to an external PostgreSQL database.
 
 ### ✔ [addon-dev-script](https://github.com/automatic-controls/addon-dev-script) v1.1.4
