@@ -51,6 +51,9 @@ WebCTRL add-on that monitors and analyzes traffic on BACnet/IP networks.
 ### ✔ [report-ftp-addon](https://github.com/automatic-controls/report-ftp-addon)
 WebCTRL add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
 
+###  [bbmd-manager](https://github.com/automatic-controls/bbmd-manager)
+WebCTRL add-on that assists with management of manual BBMDs.
+
 ### ✔ [time-sync-addon](https://github.com/automatic-controls/time-sync-addon)
 WebCTRL add-on which synchronizes time across controllers at regularly scheduled intervals (configured with [Cron expressions](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/scheduling/support/CronExpression.html#parse-java.lang.String-)).
 
