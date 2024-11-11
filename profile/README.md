@@ -21,40 +21,43 @@ WebCTRL is the software used to interface with building automation systems we pr
 - 🔥 Development Expected Soon
 - ❄ Development Paused
 
-### ✔ [aces-equipment-builder](https://github.com/automatic-controls/aces-equipment-builder) v2.0.4
+### ✔ [aces-equipment-builder](https://github.com/automatic-controls/aces-equipment-builder)
 Desktop application that interfaces with WebCTRL to generate EIKON scripts using custom *.logicsymbol* libraries. Each library can be set to synchronize with a shared network drive. Additional capabilities include maintaining a shared set of favorite *.logicsymbol* and *.logic-script* files.
 
-### ✔ [vscode-aces-equipment-builder](https://github.com/automatic-controls/vscode-aces-equipment-builder) v1.0.2
+### ✔ [vscode-aces-equipment-builder](https://github.com/automatic-controls/vscode-aces-equipment-builder)
 Extension for [Visual Studio Code](https://code.visualstudio.com/) that provides language support for ACES EB configuration files.
 
-### 🛠 [postgresql-connect](https://github.com/automatic-controls/postgresql-connect) v0.5.5-beta
+### 🛠 [postgresql-connect](https://github.com/automatic-controls/postgresql-connect)
 WebCTRL add-on which periodically synchronizes operators, add-ons, and other data to an external PostgreSQL database.
 
-### ✔ [addon-dev-script](https://github.com/automatic-controls/addon-dev-script) v1.1.4
+### ✔ [addon-dev-script](https://github.com/automatic-controls/addon-dev-script)
 Batch script used to automate certain aspects of WebCTRL add-on development. Features include automated keystore management and dependency collection.
 
-### ✔ [addon-dev-refresh](https://github.com/automatic-controls/addon-dev-refresh) v1.0.1
+### ✔ [addon-dev-refresh](https://github.com/automatic-controls/addon-dev-refresh)
 Streamlines add-on development by automatically removing and adding add-ons from a local WebCTRL server as they are developed.
 
-### ✔ [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts) v0.1.6-beta
-WebCTRL add-on which executes scripts uploaded by administrators for the purpose of testing equipment functionality.
-
-### ✔ [terminal-unit-script](https://github.com/automatic-controls/terminal-unit-script) v0.2.4-beta
-Commissioning script which evaluates performance of fans, dampers, and heating/cooling components in terminal units.
-
-### ✔ [geo-xml-export-addon](https://github.com/automatic-controls/geo-xml-export-addon) v1.0.0
+### ✔ [geo-xml-export-addon](https://github.com/automatic-controls/geo-xml-export-addon)
 WebCTRL add-on that exports structural geographic tree data as an XML file intended for use in Inkscape to create SVG graphics. An optional regular expression transform can be used to preprocess display names for Inkscape label-text.
 
-### ✔ [report-ftp-addon](https://github.com/automatic-controls/report-ftp-addon) v0.1.2-beta
-WebCTRL add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
-
-### ✔ [time-sync-addon](https://github.com/automatic-controls/time-sync-addon) v1.0.1
+### ✔ [time-sync-addon](https://github.com/automatic-controls/time-sync-addon)
 WebCTRL add-on which synchronizes time across controllers at regularly scheduled intervals (configured with [Cron expressions](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/scheduling/support/CronExpression.html#parse-java.lang.String-)).
 
-### ✔ [garbage-collect-addon](https://github.com/automatic-controls/garbage-collect-addon) v1.0.0
+### ✔ [garbage-collect-addon](https://github.com/automatic-controls/garbage-collect-addon)
 A simple WebCTRL add-on which invokes System.gc() every 5 minutes.
 
-### ✔ [cert-manager-for-webctrl](https://github.com/automatic-controls/cert-manager-for-webctrl) v1.0.0
+### ✔ [report-ftp-addon](https://github.com/automatic-controls/report-ftp-addon)
+WebCTRL add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
+
+### ✔ [mfa-addon](https://github.com/automatic-controls/mfa-addon)
+WebCTRL add-on that emails one-time MFA security codes to users upon login. Alternatively, an authenticator app can be configured.
+
+### ✔ [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts)
+WebCTRL add-on which executes scripts uploaded by administrators for the purpose of testing equipment functionality.
+
+### ✔ [terminal-unit-script](https://github.com/automatic-controls/terminal-unit-script)
+Commissioning script which evaluates performance of fans, dampers, and heating/cooling components in terminal units.
+
+### ✔ [cert-manager-for-webctrl](https://github.com/automatic-controls/cert-manager-for-webctrl)
 Batch script which provides commands to assist with the management of SSL certificates for WebCTRL.
 
 ### ❄ pid-tuner-addon
