@@ -45,6 +45,9 @@ WebCTRL add-on that emails one-time MFA security codes to users upon login. Alte
 ### ✔ [lock-history-addon](https://github.com/automatic-controls/lock-history-addon)
 WebCTRL add-on that can be used to analyze locked point history parsed from the auditlog.
 
+### ✔ [wireshark-addon](https://github.com/automatic-controls/wireshark-addon/)
+WebCTRL add-on that monitors and analyzes traffic on BACnet/IP networks.
+
 ### ✔ [report-ftp-addon](https://github.com/automatic-controls/report-ftp-addon)
 WebCTRL add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
 
