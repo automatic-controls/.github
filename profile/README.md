@@ -39,17 +39,20 @@ Streamlines add-on development by automatically removing and adding add-ons from
 ### ✔ [geo-xml-export-addon](https://github.com/automatic-controls/geo-xml-export-addon)
 WebCTRL add-on that exports structural geographic tree data as an XML file intended for use in Inkscape to create SVG graphics. An optional regular expression transform can be used to preprocess display names for Inkscape label-text.
 
+### ✔ [mfa-addon](https://github.com/automatic-controls/mfa-addon)
+WebCTRL add-on that emails one-time MFA security codes to users upon login. Alternatively, an authenticator app can be configured.
+
+### ✔ [lock-history-addon](https://github.com/automatic-controls/lock-history-addon)
+WebCTRL add-on that can be used to analyze locked point history parsed from the auditlog.
+
+### ✔ [report-ftp-addon](https://github.com/automatic-controls/report-ftp-addon)
+WebCTRL add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
+
 ### ✔ [time-sync-addon](https://github.com/automatic-controls/time-sync-addon)
 WebCTRL add-on which synchronizes time across controllers at regularly scheduled intervals (configured with [Cron expressions](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/scheduling/support/CronExpression.html#parse-java.lang.String-)).
 
 ### ✔ [garbage-collect-addon](https://github.com/automatic-controls/garbage-collect-addon)
 A simple WebCTRL add-on which invokes System.gc() every 5 minutes.
-
-### ✔ [report-ftp-addon](https://github.com/automatic-controls/report-ftp-addon)
-WebCTRL add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
-
-### ✔ [mfa-addon](https://github.com/automatic-controls/mfa-addon)
-WebCTRL add-on that emails one-time MFA security codes to users upon login. Alternatively, an authenticator app can be configured.
 
 ### ✔ [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts)
 WebCTRL add-on which executes scripts uploaded by administrators for the purpose of testing equipment functionality.
