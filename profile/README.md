@@ -54,6 +54,9 @@ WebCTRL add-on that can be configured to send scheduled reports to a remote serv
 ### ✔ [bbmd-manager](https://github.com/automatic-controls/bbmd-manager)
 WebCTRL add-on that assists with management of manual BBMDs.
 
+### ✔ [trend-service-monitor](https://github.com/automatic-controls/trend-service-monitor)
+WebCTRL add-on that monitors the queue size of the TrendHistorianService over time.
+
 ### ✔ [time-sync-addon](https://github.com/automatic-controls/time-sync-addon)
 WebCTRL add-on which synchronizes time across controllers at regularly scheduled intervals (configured with [Cron expressions](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/scheduling/support/CronExpression.html#parse-java.lang.String-)).
 
