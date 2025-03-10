@@ -42,6 +42,9 @@ WebCTRL add-on that exports structural geographic tree data as an XML file inten
 ### ✔ [mfa-addon](https://github.com/automatic-controls/mfa-addon)
 WebCTRL add-on that emails one-time MFA security codes to users upon login. Alternatively, an authenticator app can be configured.
 
+### ✔ [cli-addon](https://github.com/automatic-controls/cli-addon)
+WebCTRL add-on that provides a web interface to access the server's shell (command prompt or bash).
+
 ### ✔ [lock-history-addon](https://github.com/automatic-controls/lock-history-addon)
 WebCTRL add-on that can be used to analyze locked point history parsed from the auditlog.
 
