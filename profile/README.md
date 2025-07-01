@@ -66,6 +66,9 @@ WebCTRL add-on which synchronizes time across controllers at regularly scheduled
 ### ✔ [garbage-collect-addon](https://github.com/automatic-controls/garbage-collect-addon)
 A simple WebCTRL add-on which invokes System.gc() every 5 minutes.
 
+### ✔ [cookie-addon](https://github.com/automatic-controls/cookie-addon)
+WebCTRL add-on that allows scripts to bypass a limitation of headless chrome so that certain login cookies may be specified in query string parameters.
+
 ### ✔ [commissioning-scripts](https://github.com/automatic-controls/commissioning-scripts)
 WebCTRL add-on which executes scripts uploaded by administrators for the purpose of testing equipment functionality.
 
