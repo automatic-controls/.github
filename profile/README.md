@@ -1,4 +1,4 @@
-# Automatic Controls Equipment Systems, Inc.
+# Automatic Controls Equipment Systems
 
 WebCTRL is a trademark of Automated Logic Corporation.  Any other trademarks mentioned herein are the property of their respective owners.
 
@@ -39,6 +39,9 @@ WebCTRL add-on that emails one-time MFA security codes to users upon login. Alte
 
 ### [cli-addon](https://github.com/automatic-controls/cli-addon)
 WebCTRL add-on that provides a web interface to access the server's shell (command prompt or bash).
+
+### [rest-api-addon](https://github.com/automatic-controls/rest-api-addon)
+WebCTRL add-on that exposes a REST API with a variety of endpoints.
 
 ### [scheduled-download-addon](https://github.com/automatic-controls/scheduled-download-addon)
 WebCTRL add-on that adds a new manual command to schedule device downloads for a later time.
