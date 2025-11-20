@@ -14,8 +14,6 @@ WebCTRL is the software used to interface with building automation systems we pr
 
 ## Repository Index
 
-### Status Indicators
-
 ### [aces-equipment-builder](https://github.com/automatic-controls/aces-equipment-builder)
 Desktop application that interfaces with WebCTRL to generate EIKON scripts using custom *.logicsymbol* libraries. Each library can be set to synchronize with a shared network drive. Additional capabilities include maintaining a shared set of favorite *.logicsymbol* and *.logic-script* files.
 
