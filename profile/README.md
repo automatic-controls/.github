@@ -62,6 +62,9 @@ WebCTRL add-on that monitors the queue size of the TrendHistorianService over ti
 ### [time-sync-addon](https://github.com/automatic-controls/time-sync-addon)
 WebCTRL add-on which synchronizes time across controllers at regularly scheduled intervals (configured with [Cron expressions](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/scheduling/support/CronExpression.html#parse-java.lang.String-)).
 
+### [demo-graphic](https://github.com/automatic-controls/demo-graphic)
+Lightweight script to configure unattended cycling through specified WebCTRL graphics. Similar to the autopilot add-on.
+
 ### [garbage-collect-addon](https://github.com/automatic-controls/garbage-collect-addon)
 A simple WebCTRL add-on which invokes System.gc() every 5 minutes.
 
