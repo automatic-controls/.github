@@ -44,6 +44,9 @@ WebCTRL add-on that exposes a REST API with a variety of endpoints.
 ### [scheduled-download-addon](https://github.com/automatic-controls/scheduled-download-addon)
 WebCTRL add-on that adds a new manual command to schedule device downloads for a later time.
 
+### [graphics-error-scraper](https://github.com/automatic-controls/graphics-error-scraper)
+CLI tool that uses headless browser automation to search a WebCTRL system for graphics errors.
+
 ### [lock-history-addon](https://github.com/automatic-controls/lock-history-addon)
 WebCTRL add-on that can be used to analyze locked point history parsed from the auditlog.
 
