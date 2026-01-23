@@ -59,6 +59,9 @@ WebCTRL add-on that can be configured to send scheduled reports to a remote serv
 ### [bbmd-manager](https://github.com/automatic-controls/bbmd-manager)
 WebCTRL add-on that assists with management of manual BBMDs.
 
+### [integration-builder-eikon-script](https://github.com/automatic-controls/integration-builder-eikon-script)
+Groovy script executed in EIKON which generates a control program from a BACnet discovery file.
+
 ### [trend-service-monitor](https://github.com/automatic-controls/trend-service-monitor)
 WebCTRL add-on that monitors the queue size of the TrendHistorianService over time.
 
