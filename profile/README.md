@@ -41,6 +41,9 @@ WebCTRL add-on that provides a web interface to access the server's shell (comma
 ### [rest-api-addon](https://github.com/automatic-controls/rest-api-addon)
 WebCTRL add-on that exposes a REST API with a variety of endpoints.
 
+### [cp-property-import-export-addon](https://github.com/automatic-controls/cp-property-import-export-addon)
+WebCTRL add-on that provides a utility for exporting and importing control program properties as JSON.
+
 ### [scheduled-download-addon](https://github.com/automatic-controls/scheduled-download-addon)
 WebCTRL add-on that adds a new manual command to schedule device downloads for a later time.
 
