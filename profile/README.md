@@ -28,6 +28,7 @@ WebCTRL is the software used to interface with building automation systems we pr
 | [cp-property-import-export-addon](https://github.com/automatic-controls/cp-property-import-export-addon) | WebCTRL add-on that provides a utility for exporting and importing control program properties as JSON. |
 | [global-modify-addon](https://github.com/automatic-controls/global-modify-addon) | WebCTRL add-on that expands on the functionality of the built-in global modify tool. |
 | [graphics-error-scraper](https://github.com/automatic-controls/graphics-error-scraper) | CLI tool that uses headless browser automation to search a WebCTRL system for graphics errors. |
+| [route-clear-addon](https://github.com/automatic-controls/route-clear-addon) | WebCTRL add-on that contributes a manual command to clear routing tables from devices. |
 | [scheduled-download-addon](https://github.com/automatic-controls/scheduled-download-addon) | WebCTRL add-on that adds a new manual command to schedule device downloads for a later time. |
 | [bbmd-manager](https://github.com/automatic-controls/bbmd-manager) | WebCTRL add-on that assists with management of manual BBMDs. |
 | [wireshark-addon](https://github.com/automatic-controls/wireshark-addon/) | WebCTRL add-on that monitors and analyzes traffic on BACnet/IP networks. |
